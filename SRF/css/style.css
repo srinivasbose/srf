@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.body{ width:100%; margin:0px; padding:0px; font-family:"Times New Roman", Times, serif; font-size: 100%; height:100%; }
+
+.layout { margin:auto; width:1000px;}
+.layout .main{width:1000px; margin:auto; padding-top:20px;} 
+
+.header{ height:2%; margin-top:2px; width:100%; }
+.header .logo{ width:67%; 	height:auto; float:left; }
+
+.header .logout {margin-right:100px; float:right;}
+.content {width:auto; padding-top:200px;}
+.content .instruction {float:left; width:400px; font:italic "Times New Roman", Times, serif; font-size:16px; }
+.content .details {float:right; width:auto; position:relative;}
+
